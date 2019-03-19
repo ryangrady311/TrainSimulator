@@ -1,0 +1,45 @@
+.container {
+
+    border: solid darkgray 3px;
+    background-color: rgb(233,236,239);
+    margin-bottom: 10px;
+    padding: 0px;
+}
+
+body{
+
+    background-color: rgb(169, 221, 241);
+
+}
+
+.jumbotron {
+
+    border-bottom: solid darkgray 3px;
+
+}
+
+.sectionTitle {
+
+    background-color: rgb(0,123,255);
+    color: white;
+    padding: 5px;
+
+}
+
+.sectionContent {
+
+    margin: 10px;
+
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
